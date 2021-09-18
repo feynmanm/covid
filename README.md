@@ -1,7 +1,5 @@
-# covid
-Machine learning notebooks (.ipynb files) predicting case density (cases per unit of population) and vaccination rate
-
-In addition to the files stored in the repo...  
+# Comparing Covid 19 trends across US Counties
+Machine learning notebooks (.ipynb files) predicting case density (cases per unit of population) and vaccination rate in the CAN notebooks. Classic machine-learning models here, no deep learning, as the examples are applied to individual US counties (of which there are around 3000).
 
 ## CAN notebooks
 These two notebooks are the most useful are far as predicting something
