@@ -10,7 +10,7 @@ To run the notebooks based on the Covid Act Now data (CANnotebooks), you would n
 You would also need to first run the exploration notebook to create the correct pickle file for the predictions notebook to read in
 
 ## CDC notebooks
-This set of notebooks attempts to discover something that can be modeled from CDC data. It is not directly successful in this regard, but there is a lot of interesting exploratory work.
+This set of notebooks originally attempted to discover something that can be modeled from CDC data. It is not directly successful in this regard, but there is a lot of interesting exploratory work.
 
 To run the CDC notebooks, you would need to download the CDC cases with geography file (3.8GB) from https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/ynhu-f2s2 and store it in the covid data directory as such:  
 - ..\covid\data\CDCdata\COVID-19_Case_Surveillance_Public_Use_Data_with_Geography.csv
